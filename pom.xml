@@ -7,6 +7,10 @@
   <name>openshift</name>
   <description>test openshift</description>
 
+<build>
+  <finalName>root</finalName>
+</build>  
+
 <dependencies>
 
 	<dependency>
